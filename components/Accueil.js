@@ -1,6 +1,7 @@
 import React from 'react'
 import { Image,ActivityIndicator,Dimensions,Switch,View , Button,Text, StyleSheet,ImageBackground ,Footer,FooterTab} from 'react-native'
 import Geolocation from 'react-native-geolocation-service'
+
 //import StickyHeaderFooterScrollView from 'react-native-sticky-header-footer-scroll-view'
 import Dialog from "react-native-dialog"
 import { Button as Buttonn } from 'react-native-elements'
